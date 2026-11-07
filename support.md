@@ -7,3 +7,4 @@ Hata bildirirken cihaz modelinizi, işletim sistemi sürümünüzü ve sorunu na
 * [Gizlilik Politikası](privacy)
 * [Kullanım Koşulları](terms)
 * [Sorumluluk Reddi](disclaimer)
+* [Hesap ve Veri Silme](delete-account)

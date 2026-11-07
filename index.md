@@ -5,6 +5,7 @@
 * [Gizlilik Politikası](privacy)
 * [Kullanım Koşulları (EULA)](terms)
 * [Sorumluluk Reddi](disclaimer)
+* [Hesap ve Veri Silme](delete-account)
 * [Destek ve İletişim](support)
 
 Tercih Evreni bağımsız bir uygulamadır; ÖSYM veya herhangi bir kamu kurumuyla bağlantısı yoktur.
