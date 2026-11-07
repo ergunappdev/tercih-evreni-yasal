@@ -25,7 +25,13 @@ Profilinizi yedeklemek veya başka bir cihazda kullanmak isterseniz **Apple ile 
 
 ### 3. Bildirimler
 
-Yeni atama ilanı bildirimlerini açarsanız, bildirim gönderebilmek için cihazınıza ait bir bildirim kimliği (Google Firebase Cloud Messaging) ve seçtiğiniz öğrenim düzeyi, meslek ve il bilgileri **konu abonelikleri** olarak Google'ın altyapısında işlenir. Bildirimleri uygulamadan ya da cihaz ayarlarından istediğiniz zaman kapatabilirsiniz.
+Bildirimler Premium özelliğidir ve her biri Profil ekranından ayrı ayrı açılıp kapatılabilir:
+
+* **Yeni ilan bildirimleri:** Bildirim gönderebilmek için cihazınıza ait bir bildirim kimliği (Google Firebase Cloud Messaging) ve seçtiğiniz öğrenim düzeyi, meslek ve il bilgileri **konu abonelikleri** olarak Google'ın altyapısında işlenir.
+* **Önemli ÖSYM duyuruları:** Bütün kullanıcılar için ortak bir konuya abone olunur; kişisel bilgi içermez.
+* **Tercih dönemi hatırlatmaları:** Cihazda zamanlanan yerel bildirimlerdir; sunucuya bilgi gönderilmez. Kaydettiğiniz ilanların son başvuru hatırlatmaları da cihazda zamanlanır.
+
+Premium aboneliğiniz sona erdiğinde konu abonelikleri kaldırılır.
 
 ### 4. Abonelik ve Satın Almalar
 
